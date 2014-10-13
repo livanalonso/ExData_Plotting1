@@ -24,3 +24,4 @@ with(subset.data,plot(Date.Time,Global_active_power,xlab="\n",ylab="Global Activ
 dev.off()
 
 file.remove("household_power_consumption.txt")
+

@@ -24,3 +24,4 @@ with(subset.data,hist(Global_active_power,xlab="Global Active Power (kilowatts)"
 dev.off()
 
 file.remove("household_power_consumption.txt")
+
